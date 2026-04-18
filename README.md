@@ -21,7 +21,7 @@
 
 ## 下载安装
 
-### 前往 [Releases](../../releases) 页面下载最新版本 APK。
+### 前往 [Releases](../../releases/latest) 页面下载最新版本 APK。
 #### Android 5（API 21/22）旧电视兼容版本请前往 [v0.2.8-legacy21](https://github.com/dh374374/ChaiChaiEmbyTV/releases/tag/v0.2.8-legacy21) 下载。
 
 
