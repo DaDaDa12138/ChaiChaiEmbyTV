@@ -51,4 +51,3 @@
 - [AkDanmaku](https://github.com/KwaiAppTeam/AkDanmaku) - 弹幕渲染引擎
 - [danmu_api](https://github.com/huangxd-/danmu_api) 、[misaka_danmu_server](https://github.com/l429609201/misaka_danmu_server)- 弹幕api服务
 - [Jellyfin Media3](https://github.com/jellyfin/jellyfin-androidx-media) - FFmpeg 解码器扩展
-- [LINUX.DO论坛](https://linux.do/) - 这里的人都是靓仔，说话又好听
